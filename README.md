@@ -1,12 +1,14 @@
 <p align="center">
-  <img alt="Algolia Samples - Open-source samples by Algolia & the Community" src="static/logo-algolia-nebula-blue-full.png" />
+  <img alt="Algolia Samples - Open-source samples by Algolia & the Community" src="static/logo-algolia-nebula-blue-full.svg" />
 </p>
 
 ## What is Algolia Samples?
 
 [Algolia Samples](https://github.com/algolia-samples) hosts the samples developed by the people at Algolia and the community.
 
-Feel free to submit issues, fixes, or suggestions to improvements for the samples. Let's build awesome things together 🚀
+Feel free to submit issues, fixes, or suggestions to improvements for the samples.
+
+🚀 Let's build awesome things together 🚀
 
 ## About this repository
 
