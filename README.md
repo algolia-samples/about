@@ -33,10 +33,10 @@ Make sure to read the `README.md`, the `CONTRIBUTING.md` (if available) and even
 If you already have a sample or planning to build one, we will be happy to host and feature it on Algolia Samples.
 Please follow the steps below to do so:
 
-0. Start to build your sample (if you haven't already!)
-1. Take a look at our [coding guidelines](guidelines). We don't ask you to follow every point of them, but since those are followed for the Algolia's samples, we think it's still important to offer a coherent experience.
-2. Once your application is ready, [create a new issue](https://github.com/algolia-samples/about/issues/new/choose) and choose `Sample Submission`. Fill out the pre-populated form and submit your issue.
-3. We will get back to you as soon as possible with any questions we might have or a way to publish your sample on Algolia Samples.
+0. 🛠️ Start to build your sample (if you haven't already!)
+1. 🤓 Take a look at our [coding guidelines](guidelines). We don't ask you to follow every point of them, but since those are followed for the Algolia's samples, we think it's still important to offer a coherent experience.
+2. 🖊️ Once your application is ready, [create a new issue](https://github.com/algolia-samples/about/issues/new/choose) and choose `Sample Submission`. Fill out the pre-populated form and submit your issue.
+3. 💙 We will get back to you as soon as possible with any questions we might have or a way to publish your sample on Algolia Samples.
 
 ## Code of Conduct
 
