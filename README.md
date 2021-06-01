@@ -4,39 +4,40 @@
 
 ## What is Algolia Samples?
 
-[Algolia Samples](https://github.com/algolia-samples) hosts the samples developed by the people at Algolia and the community.
+[Algolia Samples](https://github.com/algolia-samples) is the GitHub organization where the community and people from Algolia can share sample apps.
 
-Feel free to submit issues, fixes, or suggestions to improvements for the samples.
+Feel free to submit issues, fixes, or suggestions.
 
 🚀 Let's build awesome things together 🚀
 
 ## About this repository
 
-This repository is a place to:
+In this repository (`algolia-samples/about`), you can:
 
-1. Submit a request to have your own sample added to algolia-samples
+1. Submit a request for us to add your own sample to `algolia-samples`.
 2. Learn about our sample application & templates [coding guidelines](guidelines)
 
 ## Contributing to Algolia Samples
 
-We built Algolia Samples for the community and we welcome any contributions.
+We built Algolia Samples for the community and we welcome any contributions. 
 
-There are differents ways you can contribute:
+There are different ways you can contribute:
 
-### 1. Add functionnalities or fix issues for existing samples
+### Fix issues or add features to existing samples
 
-Every sample you will find on Algolia Samples is open-source and welcomes contributions.
-Make sure to read the `README.md`, the `CONTRIBUTING.md` (if available) and eventual open issues before getting started.
+Every sample in the Algolia Samples repository is open source. All contributions are welcome! 
+If you want to contribute, follow the [Code of Conduct](https://github.com/algolia-samples/.github/blob/master/CODE_OF_CONDUCT.md) and read the `README.md` and `CONTRIBUTING.md`, if available.
+If you're ready, create a GitHub issue, describing what you want to change, or if you have any question.
 
-### 2. Add your own sample
+### Add your own sample
 
-If you already have a sample or planning to build one, we will be happy to host and feature it on Algolia Samples.
-Please follow the steps below to do so:
+If you already have a sample or planning to build one, we'll be happy to add it to the Algolia Samples organization.
+Please follow these steps:
 
 0. 🛠️ Start to build your sample (if you haven't already!)
-1. 🤓 Take a look at our [coding guidelines](guidelines). We don't ask you to follow every point of them, but since those are followed for the Algolia's samples, we think it's still important to offer a coherent experience.
-2. 🖊️ Once your application is ready, [create a new issue](https://github.com/algolia-samples/about/issues/new/choose) and choose `Sample Submission`. Fill out the pre-populated form and submit your issue.
-3. 💙 We will get back to you as soon as possible with any questions we might have or a way to publish your sample on Algolia Samples.
+1. 🤓 Take a look at our [coding guidelines](guidelines). We want to offer a coherent experience across all Algolia samples. Take them as guidelines, not dogma.
+2. 🖊️ Once your application is ready, [create a new issue](https://github.com/algolia-samples/about/issues/new/choose) and choose `Sample Submission`. Fill out the issue template and submit.
+3. 💙 We'll get back to you as soon as possible if we have any questions, and then we'll add your code to Algolia Samples.
 
 ## Code of Conduct
 
