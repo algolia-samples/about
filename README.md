@@ -5,6 +5,7 @@
 ## What is Algolia Samples?
 
 [Algolia Samples](https://github.com/algolia-samples) is the GitHub organization where the community and people from Algolia can share sample apps.
+Sample apps are more than code snippets and are self-contained, complete programs built around one or more Algolia features and optionally integrating with external services.
 
 Feel free to submit issues, fixes, or suggestions.
 
