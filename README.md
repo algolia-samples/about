@@ -23,7 +23,7 @@ We built Algolia Samples for the community and we welcome any contributions.
 
 There are differents ways you can contribute:
 
-### 1. Add functionnalities or fix issues for existing samples
+### 1. Add functionalities or fix issues for existing samples
 
 Every sample you will find on Algolia Samples is open-source and welcomes contributions.
 Make sure to read the `README.md`, the `CONTRIBUTING.md` (if available) and eventual open issues before getting started.
