@@ -2,7 +2,7 @@
   <img alt="Algolia Samples - Open-source samples by Algolia & the Community" src="static/logo-algolia-nebula-blue-full.svg" />
 </p>
 
-## What is Algolia Samples?
+## What are Algolia Samples?
 
 [Algolia Samples](https://github.com/algolia-samples) hosts the samples developed by the people at Algolia and the community.
 
@@ -21,11 +21,11 @@ This repository is a place to:
 
 We built Algolia Samples for the community and we welcome any contributions.
 
-There are differents ways you can contribute:
+There are different ways you can contribute:
 
 ### 1. Add functionalities or fix issues for existing samples
 
-Every sample you will find on Algolia Samples is open-source and welcomes contributions.
+Every sample on Algolia Samples is open source and welcomes contributions.
 Make sure to read the `README.md`, the `CONTRIBUTING.md` (if available) and eventual open issues before getting started.
 
 ### 2. Add your own sample
@@ -34,7 +34,7 @@ If you already have a sample or planning to build one, we will be happy to host 
 Please follow the steps below to do so:
 
 0. 🛠️ Start to build your sample (if you haven't already!)
-1. 🤓 Take a look at our [coding guidelines](guidelines). We don't ask you to follow every point of them, but since those are followed for the Algolia's samples, we think it's still important to offer a coherent experience.
+1. 🤓 Take a look at our [coding guidelines](guidelines). We don't ask you to follow every point of them, but since those are followed for Algolia's samples, we think it's still important to offer a coherent experience.
 2. 🖊️ Once your application is ready, [create a new issue](https://github.com/algolia-samples/about/issues/new/choose) and choose `Sample Submission`. Fill out the pre-populated form and submit your issue.
 3. 💙 We will get back to you as soon as possible with any questions we might have or a way to publish your sample on Algolia Samples.
 
