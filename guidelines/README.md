@@ -1,10 +1,10 @@
-# Sample apps and templates coding guidelines
+# Samples and templates coding guidelines
 
-These guidelines ensure consistency across all Algolia sample apps. The following guidelines focus on:
+These guidelines ensure consistency across all Algolia samples. The following guidelines focus on:
 
-- **Consistency:** all code in a sample app is formatted and written in the same way
+- **Consistency:** all code is formatted and written in the same way
 - **Maintainability:** automated tests check the core application logic
-- **Modularity:** sample app use a consistent application structure and a consistent, minimal set of dependencies
+- **Modularity:** samples use a consistent structure and a consistent, minimal set of dependencies
 - **Contribution-friendly:** every sample is open and friendly to new contributors, inviting bug fixes, or new features
 
 ## Repository template
@@ -13,15 +13,15 @@ With these goals in mind, we created a template you can use to bootstrap your pr
 
 ## Be familiar
 
-Any of our applications should _feel_ familiar to the developer. Prefer built-in standard library modules or well-known, widely-used libraries and frameworks.
+Sample applications should _feel_ familiar to the developer. Prefer built-in standard library modules or well-known, widely-used libraries and frameworks.
 
 ## Use linters
 
-Linting keeps the code within a sample app consistent. Using a linter at all is more important than which specific rules you adopt. Linters, which can automatically fix linting errors, make it easy to apply consistent formatting and style to your code.
+Linting keeps the code consistent. Using a linter at all is more important than which specific rules you adopt. Linters, which can automatically fix linting errors, make it easy to apply consistent formatting and style to your code.
 
 ## Use tests
 
-The sample app code should be reliable and maintainable. The more (meaningful) tests you include for your sample app, the better. As a bare minimum, write a few general tests for the core functionality of your app. Testing helps us maintaining the sample apps with automated dependency updates.
+Our code should be reliable and maintainable. The more (meaningful) tests you include, the better. As a bare minimum, write a few general tests for the core functionality. Testing helps us maintaining the sample with automated dependency updates.
 
 For more guidelines, write tests in this order:
 
@@ -31,13 +31,11 @@ For more guidelines, write tests in this order:
 
 ## Use few frameworks and libraries
 
-In general, use as many or as few libraries as it makes sense for the target audience of your sample apps. Fewer libraries mean fewer dependencies, which makes your sample app easier to maintain. But don't re-invent the wheel. If your code starts to include many unrelated functions for doing common tasks, consider using a well-known library.
+In general, use as many or as few libraries as it makes sense for the target audience of your sample apps. Fewer libraries mean fewer dependencies, which makes the code easier to maintain. But don't re-invent the wheel. If your code starts to include many unrelated functions for doing common tasks, consider using a well-known library.
 
 ## Use environment variables
 
-Most programming languages have libraries for working with `.env` files.
-
-Store identities, API keys, security identifiers (SID), and similar information as environment variables in a `.env` file. Don't include the `.env` file itself in the repository, but add it to the `.gitignore` file. Instead, provide an example file `.env.example` that lists all the environment variables the user needs to run your sample app. Provide default values if applicable and include comments explaining the purpose of each environment variable. 
+Store identities, API keys, security identifiers (SID), and similar information as environment variables in a `.env` file. Don't include the `.env` file itself in the repository, but add it to the `.gitignore` file. Instead, provide an example file `.env.example` that lists all the environment variables the user needs. Provide default values if applicable and include comments explaining the purpose of each environment variable. 
 Explain, how users can get credentials and API keys, for example, by including links to the relevant websites. 
 
 Most programming languages have libraries for working with `.env` files.
@@ -46,7 +44,7 @@ Most programming languages have libraries for working with `.env` files.
 
 We want to make it as easy as possible to get started with a sample app. To avoid wrestling with database administration, use a simple local database with broad support, for example, [SQLite](https://www.sqlite.org/index.html).
 
-To make it even easier to use a sample app, provide some sample data for users to get started. 
+To make it even easier, provide some sample data for users to get started. 
 
 ## Use continous integration
 
