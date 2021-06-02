@@ -62,7 +62,7 @@ If possible, you should also provide a way to populate the database with some ba
 
 In the same way, providing the data to populate Algolia indices or other external services makes it easy for people to set up your sample quickly.
 
-### 7. Continous integration
+### 7. Continuous integration
 
 GitHub introduced GitHub Actions as a way to run continuous integration tests directly on their platform, allowing to test apps on Windows, Linux and macOS. This is our preferred way of running tests and other automation.
 
