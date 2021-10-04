@@ -1,8 +1,8 @@
 ---
-name: Sample Submission
-about: Submit a sample to be added to the Algolia Samples
-title: '[Sample Submission]'
-labels: sample-submission
+name: Code Sample Submission
+about: Submit a sample to be added to the Algolia Code Exchange
+title: '[Code Sample Submission]'
+labels: code-submission
 assignees: 'clemfromspace'
 ---
 
@@ -10,15 +10,17 @@ assignees: 'clemfromspace'
 Please explain what use case this sample is solving. If this is another programming language implementation for an existing sample, please copy the link here.
 
 **What's the programming language?**
-What programming language is primarily used for this template? If there's a front-end and back-end component, please list the back-end language.
+What programming language is primarily used for this template? If there's a front-end and back-end component, please list both.
 
 **Sample GitHub URL:**
 Please list the GitHub URL of your project. e.g. github.com/algolia-samples/chatbot-with-algolia-answers
 
 **Author Information (please fill out):**
 
-- Author name (or organization if submitted on behalf of a company): [e.g. Algolia]
-- Author GitHub organization/user: [e.g. github.com/algolia]
+- Author name: [e.g. Peter Parker]
+- Author GitHub Handle: [e.g. github.com/peterparker]
+- Organization name (if submitted on behalf of a company): [e.g. Algolia]
+- Organization GitHub URL(if submitted on behalf of a company): [e.g. github.com/algolia]
 
 **Dependencies:**
 Please list any dependencies for services, tools or similar this project has (including Algolia's one). e.g: Algolia Answers, Google Cloud Vision, etc.
