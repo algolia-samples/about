@@ -1,5 +1,5 @@
 ---
-name: Code Sample Submission
+name: Sample Code Submission
 about: Submit a sample to be added to the Algolia Code Exchange
 title: '[Code Sample Submission]'
 labels: code-submission
