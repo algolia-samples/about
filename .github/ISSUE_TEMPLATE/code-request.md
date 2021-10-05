@@ -1,6 +1,6 @@
 ---
 name: Sample code request
-about: Submit a request for Sample Code
+about: Request a new code sample or sample app
 title: '[Sample code request]'
 labels: code-request
 assignees: 'clemfromspace'
