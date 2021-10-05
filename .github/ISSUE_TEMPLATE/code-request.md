@@ -1,5 +1,5 @@
 ---
-name: Sample Code Request
+name: Sample code request
 about: Submit a request for Sample Code
 title: '[Sample code request]'
 labels: code-request
