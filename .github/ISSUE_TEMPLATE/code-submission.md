@@ -14,7 +14,7 @@ If your sample is an implementation of an existing sample in another programming
 What's the primary programming language for this sample? If your sample has both front-end and back-end components, please list both.
 
 **Sample GitHub URL:**
-Please list the GitHub URL of your project. e.g. github.com/algolia-samples/chatbot-with-algolia-answers
+Please list the GitHub URL of your project, for example, `github.com/algolia-samples/chatbot-with-algolia-answers`
 
 **Author Information (please fill out):**
 
