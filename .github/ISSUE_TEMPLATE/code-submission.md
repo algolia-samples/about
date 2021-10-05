@@ -1,7 +1,7 @@
 ---
 name: Sample Code Submission
 about: Submit a sample to be added to the Algolia Code Exchange
-title: '[Code Sample Submission]'
+title: '[Sample code submission]'
 labels: code-submission
 assignees: 'clemfromspace'
 ---
