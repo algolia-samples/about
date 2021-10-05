@@ -7,7 +7,7 @@ assignees: 'clemfromspace'
 ---
 
 **What's the use case for the sample code?**
-Please explain what use case this sample is solving.
+Please explain what use case the new sample should address.
 
 **What are your preferred programming language/framework?**
 What programming language should be used for this template? If there's a front-end and back-end component, please list both.
