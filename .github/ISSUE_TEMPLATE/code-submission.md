@@ -24,7 +24,7 @@ Please list the GitHub URL of your project. e.g. github.com/algolia-samples/chat
 - Organization GitHub URL(if submitted on behalf of a company): [e.g. github.com/algolia]
 
 **Dependencies:**
-Please list any dependencies for services, tools or similar this project has (including Algolia's one). e.g: Algolia Answers, Google Cloud Vision, etc.
+Please list any dependencies for services, tools, or others this project has, including Algolia's services. For example, Algolia Answers, Google Cloud Vision, etc.
 
 **Checklist:**
 
