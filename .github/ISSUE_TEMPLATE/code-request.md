@@ -1,7 +1,7 @@
 ---
 name: Sample Code Request
 about: Submit a request for Sample Code
-title: '[Code Sample Submission]'
+title: '[Sample code request]'
 labels: code-request
 assignees: 'clemfromspace'
 ---
