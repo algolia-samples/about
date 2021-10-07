@@ -1,9 +1,10 @@
 ---
 name: Sample code request
 about: Request a new code sample or sample app
-title: '[Sample code request]'
-labels: code-request
-assignees: 'clemfromspace'
+title: "[Sample code request]"
+labels: Request
+assignees: clemfromspace
+
 ---
 
 **What's the use case for the sample code?**
