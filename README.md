@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Algolia Samples - Open-source samples by Algolia & the Community" src="static/logo-algolia-nebula-blue-full.svg" />
+  <img alt="Algolia Samples - Open source samples by Algolia & the Community" src="static/algolia-logo.svg" />
 </p>
 
 ## What are Algolia Samples?
