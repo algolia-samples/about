@@ -35,7 +35,7 @@ Please follow the steps below to do so:
 
 0. 🛠️ Start to build your sample (if you haven't already!)
 1. 🤓 Take a look at our [coding guidelines](guidelines). We don't ask you to follow every point of them, but since those are followed for Algolia's samples, we think it's still important to offer a coherent experience.
-2. 🖊️ Once your application is ready, [create a new issue](https://github.com/algolia-samples/about/issues/new/choose) and choose `Sample Submission`. Fill out the pre-populated form and submit your issue.
+2. 🖊️ Once your application is ready, [send it to us](https://www.algolia.com/developers/code-exchange/contribute/)
 3. 💙 We will get back to you as soon as possible with any questions we might have or a way to publish your sample on Algolia Samples.
 
 ## Code of Conduct
